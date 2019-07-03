@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is A8A3-261F
+
+ Directory of D:\Meena\GitRepository
+
+03-07-2019  16:38    <DIR>          .
+03-07-2019  16:38    <DIR>          ..
+03-07-2019  16:38                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  109,898,522,624 bytes free
